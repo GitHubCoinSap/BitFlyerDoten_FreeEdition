@@ -1,0 +1,2 @@
+# BitFlyerDoten_FreeEdition
+BitFlyerDoten ビットフライヤー用の自動取引BOT
